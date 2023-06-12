@@ -12,8 +12,7 @@ from sklearn.metrics import accuracy_score
 from PIL import Image
 # Set title
 st.title("Welcome to Machine Learning App")
-image=Image.open('mlapp.jpg')
-st.image(image,use_column_width=True)
+
 #set subtitle
 st.markdown('<h2 style="color:red;">"A Data App which automates the working of Machine Learning process"</h2>', unsafe_allow_html=True)
 st.markdown('<h2 style="color:grey;">    "Lets Explore different datasets and classifiers"</h2>', unsafe_allow_html=True)
