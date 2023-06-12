@@ -1,3 +1,4 @@
 seaborn
 sklearn
 pyforest
+streamlit
