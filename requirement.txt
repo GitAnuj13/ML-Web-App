@@ -4,3 +4,4 @@ sklearn
 PIL
 numpy
 pandas
+streamlit
