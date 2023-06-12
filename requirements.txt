@@ -2,3 +2,4 @@ seaborn
 scikit-learn
 pyforest
 streamlit
+PIL
